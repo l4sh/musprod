@@ -10,6 +10,7 @@ Here you will find some music production curated content.
   * [Articles](articles.md) - Articles and links to external articles
   * [Cheatsheets](cheatsheets.md) - Cheatsheets
   * [Resources](resources.md) - Links and information to resources like samples, VSTs, libraries, etc.
+  * [Videos](videos.md) - Links to videos
   * [Legal](legal.md) - Legal stuff
   * [Platforms](platforms.md) - Information on using specific platforms for music production
   * [Software](software.md) - Information on music production software
